@@ -43,8 +43,8 @@ This reading will help you complete the tasks below.
 
 
 * [ ] Complete the listed reading for class discussion
-* [ ] Find an additional article on R or Python and "big data" and write a summary of the article
-* [ ] Create an `.Rmd` file summarizing your reading
-* [ ] Compile your `.md` and `.html` file into your git repository
+* [ ] Find an additional article on Python and "big data" and write a summary of the article
+* [ ] Create a marimo notebook summarizing your reading
+* [ ] Export your notebook to `.html` abd have both the notebook and HTML into your git repository
 
 
