@@ -26,8 +26,8 @@ Specifically, in this case study you will get 5 - 10 ticker symbols and will nee
 ### Reading
 
 This reading will help you complete the tasks below.
+* o [ITables: Python DataFrames as interactive DataTables ](https://mwouts.github.io/itables/quick_start.html){target='blank'}
 * o [Yfinance Tickers API](https://ranaroussi.github.io/yfinance/reference/api/yfinance.Tickers.html#yfinance.Tickers){target='blank'}
-
 
 
 
@@ -47,7 +47,7 @@ ul {
 
 
 * [ ] For your coding development use these tickers - `tickers_today = ["CXW", "F", "GM", "JCP", "KR", "WDC", "NKE","T", "WDAY", "WFC", "WMT"]`
-* [ ] Use `pydygraphs` to build interactive visualizations of the stock performances over the last 5 years.
+* [ ] Use `pydygraphs` to build interactive visualizations of the stock performances over the last 5 years. Bonus: Add an interactive table using `itables` outlining the data the plot is based on.
 * [ ] Make a `plotly` graphic that helps you build a solid question around how an investor would use volume in their trading strategy
 * [ ] Create a marimo notebook with 1-2 paragraphs summarizing your graphics and the choices you made in your visualization
 * [ ] Export your notebook to `.html` abd have both the notebook and HTML into your git repository
