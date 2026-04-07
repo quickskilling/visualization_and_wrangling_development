@@ -50,7 +50,7 @@ ul {
 * [ ] Use `pydygraphs` to build interactive visualizations of the stock performances over the last 5 years. Bonus: Add an interactive table using `itables` outlining the data the plot is based on.
 * [ ] Make a `plotly` graphic that helps you build a solid question around how an investor would use volume in their trading strategy
 * [ ] Create a marimo notebook with 1-2 paragraphs summarizing your graphics and the choices you made in your visualization
-* [ ] Export your notebook to `.html` abd have both the notebook and HTML into your git repository
+* [ ] Export your notebook to `.html` and have both the notebook and HTML into your git repository
 * [ ] Find two other student's compiled files in their repository and provide feedback using the issues feature in GitHub (If they already have three issues find a different student to critique)
 * [ ] Address 1-2 of the issues posted on your project and push the updates to GitHub
 

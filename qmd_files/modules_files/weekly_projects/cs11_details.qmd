@@ -6,7 +6,7 @@ title: "cs-11"
 
 ### Background
 
-You can recreate [CS 10](https://byuistats.github.io/M335/weekly_projects/cs10_details.html){target="blank"} or find your own spatial data to display using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}.
+You can recreate [CS 10](../qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} or find your own spatial data to display using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}.
 
 -   [Course Website](../index.html)
 
@@ -35,4 +35,4 @@ ul {
     -   [ ] Find your own spatial data that interests you and build a visualization
 -   [ ] Install `folium` using UV - `uv add folium`
 -   [ ] Create a marimo notebook with 1-2 paragraphs summarizing your graphics and the choices you made in your visualization
--   [ ] Export your notebook to `.html` abd have both the notebook and HTML into your git repository
+-   [ ] Export your notebook to `.html` and have both the notebook and HTML into your git repository
