@@ -16,7 +16,7 @@ title: "cs-02"
 
 This reading will help you complete the tasks below.
 
--   o [Chapter 3: R for Data Science - Data visualization](http://r4ds.had.co.nz/data-visualisation.html){target="blank"}
+-   o [Chapter 3: Python for Data Science - Data visualization](https://byuidatascience.github.io/python4ds/data-visualisation.html){target="blank"}
 
 ### Tasks
 

@@ -20,7 +20,7 @@ This reading will help you complete the tasks below.
 
 -   o [Example of GitHub Issue conversation](https://github.com/STAT545-UBC/Discussion/issues/387){target="blank"}
 -   o [Posting Issues on GitHub](https://guides.github.com/features/issues/){target="blank"}
--   o [reprex R Package](https://github.com/tidyverse/reprex#what-is-a-reprex){target="blank"}
+-   o [reprexlite library](https://jayqi.github.io/reprexlite/stable/){target="blank"}
 
 ### Tasks
 
