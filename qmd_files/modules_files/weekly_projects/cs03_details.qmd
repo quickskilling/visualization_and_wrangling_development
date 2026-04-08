@@ -12,7 +12,7 @@ You just started your internship at a big firm in New York, and your manager gav
 2.  Which origin airport is best to minimize my chances of a late arrival when I am using Delta Airlines?
 3.  Which destination airport is the worst (you decide on the metric for worst) airport for arrival time?
 
--   [Course Website](.../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ### Reading
 

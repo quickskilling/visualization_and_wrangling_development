@@ -8,7 +8,7 @@ title: "task-09"
 
 Data formats are varied and differ by domains and software. We could spend weeks on the different formats and file types that companies and governments use to store their data. We will practice with a few standard formats that are often used for storing data. In the future, you will most likely have to do some research to figure out other formats. We have a challenge to read in the five formats of the [DOW data](https://github.com/byuistats/data/tree/master/Dart_Expert_Dow_6month_anova){target="blank"} and checking that they are all identical using `assert_frame_equal()` from `polars.testing`. One final note, your Python script should do all the work. That is your script should download the files and/or read directly from the web location of the file.
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

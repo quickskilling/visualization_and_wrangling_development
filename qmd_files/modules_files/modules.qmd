@@ -90,7 +90,7 @@ Finding good data takes time, and can take longer than the time to tidy your dat
 
 ## Task 8: World Data Investigations - Part 2
 
-The [Our World in Data](https://ourworldindata.org/){target="blank"} website has world data. It is nice that they have provided graphics and then the data that they used to generate the graphics. Once again, we are going to build visualizations in R using their data.
+The [Our World in Data](https://ourworldindata.org/){target="blank"} website has world data. It is nice that they have provided graphics and then the data that they used to generate the graphics. Once again, we are going to build visualizations in Python using their data.
 
 -   [Details](class_tasks/task08_details.html)
 

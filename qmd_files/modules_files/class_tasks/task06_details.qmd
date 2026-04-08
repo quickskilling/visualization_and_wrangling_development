@@ -14,7 +14,7 @@ Beyond the variable descriptions is how the variables relate to each other. We c
 
 Use `nycflights13 -> flights # uv add nycflights13` to practice your data summary and data investigation through visualization skills.
 
--   [Course Website](.../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

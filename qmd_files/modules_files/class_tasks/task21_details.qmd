@@ -8,7 +8,7 @@ title: "task-21"
 
 Choose from [Task 19](../qmd_files/modules_files/class_tasks/task19_details.html) or [Task 20](../qmd_files/modules_files/class_tasks/task20_details.html) and recreate your plot using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

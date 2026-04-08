@@ -8,7 +8,7 @@ title: "cs-11"
 
 You can recreate [CS 10](../qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} or find your own spatial data to display using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}.
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ### Reading
 

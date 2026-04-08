@@ -8,7 +8,7 @@ title: "task-07"
 
 Finding good data takes time, and can take longer than the time to tidy your data. This task could easily take 3-6 hours to find the data you need for your final project. After you find good data sources make sure to complete the remaining tasks.
 
--   [Course Website](.../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

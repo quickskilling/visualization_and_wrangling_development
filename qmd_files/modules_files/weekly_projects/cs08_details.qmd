@@ -10,7 +10,7 @@ We have transaction data for a few businesses that have been in operation for th
 
 In our course we are only looking at understanding and visualizing recorded time series data. If you would like to learn more about forecasting I would recommend [Forecasting: Principles and Practice](https://www.otexts.org/fpp2/){target="blank"} and for a quick introduction [see here](https://afit-r.github.io/ts_exploration){target="blank"}
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ### Reading
 

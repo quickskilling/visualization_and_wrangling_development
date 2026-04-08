@@ -8,7 +8,7 @@ title: "task-22"
 
 This week we are going to get introduced to "big data" principles. We will discuss some of the issues and terminology but will not have any coding tasks associated with "big data".
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

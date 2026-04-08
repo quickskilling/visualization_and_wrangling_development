@@ -10,6 +10,8 @@ Up to this point, we have dealt with data that fits into the tidy format without
 
 We will use Plotly to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use `plotly.choropleth()` to recreate the provided image.
 
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
+
 ```{=html}
 <style>
 ul {

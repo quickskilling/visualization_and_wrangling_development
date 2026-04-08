@@ -8,7 +8,7 @@ title: "task-17"
 
 The stock market is overflowing with data. There are many python libraries that allow us to get quick access to information on publicly traded companies. Imagine that you and a friend each purchased about \$1,000 of stock in three different stocks at the start of October last year, and you want to compare your performance up to this week. Use the stock shares purchased and share prices to demonstrate how each of you fared over the period you were competing (assuming that you did not change your allocations).
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

@@ -8,7 +8,7 @@ title: "task-13"
 
 When we are visualizing data with categorical variables, we have to deal with character strings as groupings. The problem with summarizing categorical data in a table or a plot is how to order the groups. Using the concept of Factors allows us to dictate the order of these groupings for presentation. We will revisit the [stock data](https://github.com/byuistats/data/tree/master/Dart_Expert_Dow_6month_anova){target="blank"} from a previous task to create a table and a plot that has the months correctly labeled and ordered.
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

@@ -8,7 +8,7 @@ title: "task-08"
 
 The [Our World in Data](https://ourworldindata.org/){target="blank"} website has world data. It is nice that they have provided graphics and then the data that they used to generate the graphics. Once again, we are going to build visualizations in Python using their data.
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ```{=html}
 <style>

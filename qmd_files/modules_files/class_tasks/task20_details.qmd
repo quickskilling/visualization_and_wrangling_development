@@ -14,6 +14,8 @@ Ignore links above all data is in the download below.
 
 [zip file of what you will need](task20_spatial_idaho.zip)
 
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
+
 ```{=html}
 <style>
 ul {

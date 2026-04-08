@@ -10,7 +10,7 @@ You have been asked to support a story for the local paper (that has a web prese
 
 Remember the big story is the collapse of new building permits at the initial stages of the [mortgage crisis](https://en.wikipedia.org/wiki/Subprime_mortgage_crisis){target="blank"}. Make sure your graphics highlight the collapse in a clear and honest manner.
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ### Reading
 

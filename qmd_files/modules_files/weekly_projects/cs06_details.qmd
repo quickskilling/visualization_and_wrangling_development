@@ -13,7 +13,7 @@ It is 2010, and you are working for the Idaho restaurant commission, and they ne
 3.  Which county in Idaho spent the most on fast food construction each year?
 4.  In that county how did other commercial construction compare?
 
--   [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
 ### Reading
 
