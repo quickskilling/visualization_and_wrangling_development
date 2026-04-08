@@ -8,7 +8,7 @@ title: "task-01"
 
 To create graphics that clearly answer questions, you must understand the basics of how the human perceptual system works. [This 40-minute talk by John Rauser](https://youtu.be/fSgEeI2Xpdc){target="blank"}, a data scientist in the technology industry, will give you an overview. You can find the code for the majority of his graphics [here](https://github.com/jrauser/writing/blob/master/how_humans_see_data/hhsd_notes.Rmd){target="blank"}.
 
--   [Back](javascript:window.history.back();) or [Course Website](../index.html)
+-   [Back](javascript:window.history.back();) or [Course Website](.../index.html)
 
 ```{=html}
 <style>

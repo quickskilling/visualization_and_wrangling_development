@@ -13,7 +13,7 @@ This project is not as severe as the two quotes below, but it will give you a ta
 1.  "Classroom data are like teddy bears and real data are like a grizzly bear with salmon blood dripping out its mouth." - [Jenny Bryan](https://twitter.com/JennyBryan){target="blank"}
 2.  "Up to 80% of data analysis is spent on the process of cleaning and preparing data" - [Hadley Wickham](http://jstatsoft.org/v59/i10){target="blank"}
 
--   [Course Website](../index.html)
+-   [Course Website](.../index.html)
 
 ### 
 

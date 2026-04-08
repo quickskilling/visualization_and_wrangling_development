@@ -347,28 +347,28 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
+    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in Python for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
   },
   {
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "Welcome",
     "section": "",
-    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
+    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in Python for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
   },
   {
     "objectID": "index.html#course-mission-statement",
     "href": "index.html#course-mission-statement",
     "title": "Welcome",
     "section": "Course Mission Statement",
-    "text": "Course Mission Statement\nUse data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Students will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
+    "text": "Course Mission Statement\nUse data-driven programming in Python for the handling, formatting, and visualization of messy and complex data. Students will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
   },
   {
     "objectID": "index.html#course-outcomes",
     "href": "index.html#course-outcomes",
     "title": "Welcome",
     "section": "Course Outcomes",
-    "text": "Course Outcomes\nAt the completion of this course, successful students will be able to:\n\nConvert data from varied formats or structures to a tidy format for analysis and visualization.\nClean, transform, and merge data attributes/variables appropriately.\nEffectively display and communicate meaning from spatial, temporal, and textual data.\nArticulate the process, benefits, and challenges of big data manipulation.\nUse current analysis, presentation, and collaboration tools in the data science field (E.g. R, Python, D3.js, GitHub, Slack, etc)."
+    "text": "Course Outcomes\nAt the completion of this course, successful students will be able to:\n\nConvert data from varied formats or structures to a tidy format for analysis and visualization.\nClean, transform, and merge data attributes/variables appropriately.\nEffectively display and communicate meaning from spatial, temporal, and textual data.\nArticulate the process, benefits, and challenges of big data manipulation.\nUse current analysis, presentation, and collaboration tools in the data science field (E.g. Python, GitHub, Slack, etc)."
   },
   {
     "objectID": "qmd_files/modules_files/class_tasks/backgrounds.html",

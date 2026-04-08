@@ -8,7 +8,7 @@ title: "task-05"
 
 The [Our World in Data](https://ourworldindata.org/){target="blank"} website has world data. It is nice that they have provided graphics and then the data that they used to generate the graphics. We are going to recreate some of their visualizations in Python and then make them better.
 
--   [Course Website](../index.html)
+-   [Course Website](.../index.html)
 
 ```{=html}
 <style>

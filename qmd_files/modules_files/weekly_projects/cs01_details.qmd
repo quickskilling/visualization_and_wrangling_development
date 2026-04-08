@@ -8,7 +8,7 @@ title: "cs-01"
 
 Your first weekly project requires you to **submit** a review of 4-5 different data visualizations used to answer specific questions. Some fun websites are [pudding.cool](https://pudding.cool/){target="blank"}, [ourworldindata](https://ourworldindata.org/){target="blank"}, and [priceonomics](https://priceonomics.com/){target="blank"} (but you can use any website, blog, or article with a good visualization).
 
--   [Course Website](../index.html)
+-   [Course Website](.../index.html)
 
 ### Tasks
 

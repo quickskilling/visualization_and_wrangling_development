@@ -8,7 +8,7 @@ title: "task-03"
 
 Learning how to ask interesting questions takes time. As data scientists we need to learn how to ask questions that data can answer. **Note that the reading on data transformation below is necessary for the case study for this week and may be the most important reading of the semester to fully understand**
 
--   [Course Website](../index.html)
+-   [Course Website](.../index.html)
 
 ```{=html}
 <style>
