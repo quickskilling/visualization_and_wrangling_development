@@ -742,8 +742,8 @@
     "text": "To create graphics that clearly answer questions, you must understand the basics of how the human perceptual system works. This 40-minute talk by John Rauser, a data scientist in the technology industry, will give you an overview. You can find the code for the majority of his graphics here.\n\nBack or Course Website\n\n\n\n\n\nThis reading will help you complete the tasks below.\n\no John Rauser Talk\no Being a better online reader\n\n\n\n\n\nWatch John Rauser Presentation\n\nPost in the Slack Space your three favorite segments from the video and explain why you liked them."
   },
   {
-    "objectID": "qmd_files/modules_files/class_tasks/task01_details.html#task-1-understanding-graphical-perception-r-and-r-studio-setup",
-    "href": "qmd_files/modules_files/class_tasks/task01_details.html#task-1-understanding-graphical-perception-r-and-r-studio-setup",
+    "objectID": "qmd_files/modules_files/class_tasks/task01_details.html#task-1-understanding-graphical-perception-r-and",
+    "href": "qmd_files/modules_files/class_tasks/task01_details.html#task-1-understanding-graphical-perception-r-and",
     "title": "task-01",
     "section": "",
     "text": "To create graphics that clearly answer questions, you must understand the basics of how the human perceptual system works. This 40-minute talk by John Rauser, a data scientist in the technology industry, will give you an overview. You can find the code for the majority of his graphics here.\n\nBack or Course Website\n\n\n\n\n\nThis reading will help you complete the tasks below.\n\no John Rauser Talk\no Being a better online reader\n\n\n\n\n\nWatch John Rauser Presentation\n\nPost in the Slack Space your three favorite segments from the video and explain why you liked them."
@@ -851,14 +851,14 @@
     "href": "qmd_files/modules_files/class_tasks/task19_details.html",
     "title": "task-19",
     "section": "",
-    "text": "Up to this point, we have dealt with data that fits into the tidy format without much effort. Spatial data has many complicating factors that have made handling spatial data complicated. Big strides are being made to make clean spatial data tidy in Python. However; we are in the middle of the transition.\nWe will use Plotly to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use plotly.choropleth() to recreate the provided image.\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Plotly Choropleth Maps\no Video on spatial datums\no Video 2 on spatial datums\n\n\n\n\n\nCreate a .png image that closely matches my example\n\nNote that fill = NA in geom_sf() will not fill the polygons with a grey color\n\nSave your notebook and .png files to GitHub"
+    "text": "Up to this point, we have dealt with data that fits into the tidy format without much effort. Spatial data has many complicating factors that have made handling spatial data complicated. Big strides are being made to make clean spatial data tidy in Python. However; we are in the middle of the transition.\nWe will use Plotly to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use plotly.choropleth() to recreate the provided image.\n\nBack or Course Website\n\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Plotly Choropleth Maps\no Video on spatial datums\no Video 2 on spatial datums\n\n\n\n\n\nCreate a .png image that closely matches my example\n\nNote that fill = NA in geom_sf() will not fill the polygons with a grey color\n\nSave your notebook and .png files to GitHub"
   },
   {
     "objectID": "qmd_files/modules_files/class_tasks/task19_details.html#task-19-spatial-data-and-measure-data",
     "href": "qmd_files/modules_files/class_tasks/task19_details.html#task-19-spatial-data-and-measure-data",
     "title": "task-19",
     "section": "",
-    "text": "Up to this point, we have dealt with data that fits into the tidy format without much effort. Spatial data has many complicating factors that have made handling spatial data complicated. Big strides are being made to make clean spatial data tidy in Python. However; we are in the middle of the transition.\nWe will use Plotly to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use plotly.choropleth() to recreate the provided image.\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Plotly Choropleth Maps\no Video on spatial datums\no Video 2 on spatial datums\n\n\n\n\n\nCreate a .png image that closely matches my example\n\nNote that fill = NA in geom_sf() will not fill the polygons with a grey color\n\nSave your notebook and .png files to GitHub"
+    "text": "Up to this point, we have dealt with data that fits into the tidy format without much effort. Spatial data has many complicating factors that have made handling spatial data complicated. Big strides are being made to make clean spatial data tidy in Python. However; we are in the middle of the transition.\nWe will use Plotly to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use plotly.choropleth() to recreate the provided image.\n\nBack or Course Website\n\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Plotly Choropleth Maps\no Video on spatial datums\no Video 2 on spatial datums\n\n\n\n\n\nCreate a .png image that closely matches my example\n\nNote that fill = NA in geom_sf() will not fill the polygons with a grey color\n\nSave your notebook and .png files to GitHub"
   },
   {
     "objectID": "qmd_files/modules_files/class_tasks/task19_details.html#image",
@@ -889,11 +889,11 @@
     "text": "You can read the background on all tasks here. The “Details” link below each background will take you to the full task."
   },
   {
-    "objectID": "qmd_files/modules_files/modules.html#task-1-understanding-graphical-perception-r-and-r-studio-setup",
-    "href": "qmd_files/modules_files/modules.html#task-1-understanding-graphical-perception-r-and-r-studio-setup",
+    "objectID": "qmd_files/modules_files/modules.html#task-1-understanding-graphical-perception",
+    "href": "qmd_files/modules_files/modules.html#task-1-understanding-graphical-perception",
     "title": "Module Schedule",
-    "section": "Task 1: Understanding Graphical Perception, R, and R-Studio Setup",
-    "text": "Task 1: Understanding Graphical Perception, R, and R-Studio Setup\nTo create graphics that clearly answer questions, you must understand the basics of how the human perceptual system works. This 40-minute talk by John Rauser, a data scientist in the technology industry, will give you an overview. You can find the code for the majority of his graphics here.\n\nDetails"
+    "section": "Task 1: Understanding Graphical Perception",
+    "text": "Task 1: Understanding Graphical Perception\nTo create graphics that clearly answer questions, you must understand the basics of how the human perceptual system works. This 40-minute talk by John Rauser, a data scientist in the technology industry, will give you an overview. You can find the code for the majority of his graphics here.\n\nDetails"
   },
   {
     "objectID": "qmd_files/modules_files/modules.html#case-study-1-critiquing-visualizations",

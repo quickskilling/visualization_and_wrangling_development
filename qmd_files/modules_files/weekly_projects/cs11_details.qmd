@@ -6,7 +6,7 @@ title: "cs-11"
 
 ### Background
 
-You can recreate [CS 10](../qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} or find your own spatial data to display using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}.
+You can recreate [CS 10](https://quickskilling.github.io/visualization_and_wrangling_development/qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} or find your own spatial data to display using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}.
 
 -   [Back](javascript:window.history.back();) or [Course Website](https://quickskilling.github.io/visualization_and_wrangling_development/)
 
@@ -31,7 +31,7 @@ ul {
 ```
 
 -   [ ] Choose an option of recreating or using new data.
-    -   [ ] Recreate [CS 10](../qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} tasks with folium
+    -   [ ] Recreate [CS 10](https://quickskilling.github.io/visualization_and_wrangling_development/qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} tasks with folium
     -   [ ] Find your own spatial data that interests you and build a visualization
 -   [ ] Install `folium` using UV - `uv add folium`
 -   [ ] Create a marimo notebook with 1-2 paragraphs summarizing your graphics and the choices you made in your visualization

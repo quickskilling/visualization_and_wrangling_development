@@ -2,7 +2,7 @@
 title: "task-01"
 ---
 
-## Task 1: Understanding Graphical Perception, R, and R-Studio Setup
+## Task 1: Understanding Graphical Perception, R, and 
 
 ### Background
 

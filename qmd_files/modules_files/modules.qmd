@@ -6,7 +6,7 @@ You can read the background on all tasks here. The "Details" link below each bac
 
 # Module 1
 
-## Task 1: Understanding Graphical Perception, R, and R-Studio Setup
+## Task 1: Understanding Graphical Perception
 
 To create graphics that clearly answer questions, you must understand the basics of how the human perceptual system works. [This 40-minute talk by John Rauser](https://youtu.be/fSgEeI2Xpdc){target="blank"}, a data scientist in the technology industry, will give you an overview. You can find the code for the majority of his graphics [here](https://github.com/jrauser/writing/blob/master/how_humans_see_data/hhsd_notes.Rmd){target="blank"}.
 
@@ -292,7 +292,7 @@ Remember the big story is the collapse of new building permits at the initial st
 
 ## Task 21: Interactive Maps
 
-Choose from [Task 19](../qmd_files/modules_files/class_tasks/task19_details.html) or [Task 20](../qmd_files/modules_files/class_tasks/task20_details.html) and recreate your plot using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}
+Choose from [Task 19](https://quickskilling.github.io/visualization_and_wrangling_development/qmd_files/modules_files/class_tasks/task19_details.html) or [Task 20](https://quickskilling.github.io/visualization_and_wrangling_development/qmd_files/modules_files/class_tasks/task20_details.html) and recreate your plot using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}
 
 -   [Details](class_tasks/task21_details.html)
 
@@ -308,7 +308,7 @@ This week we are going to get introduced to "big data" principles. We will discu
 
 ## Case Study 11: Interacting with space
 
-You can recreate [CS 10](../qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} or find your own spatial data to display using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}.
+You can recreate [CS 10](https://quickskilling.github.io/visualization_and_wrangling_development/qmd_files/modules_files/weekly_projects/cs10_details.html){target="blank"} or find your own spatial data to display using [folium](https://python-visualization.github.io/folium/latest/index.html){target="blank"}.
 
 -   [Details](weekly_projects/cs11_details.html)
 
