@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -279,7 +314,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#case-study-5-i-can-clean-your-data" id="toc-case-study-5-i-can-clean-your-data" class="nav-link active" data-scroll-target="#case-study-5-i-can-clean-your-data">Case Study 5: I can clean your data</a>
   <ul class="collapse">
   <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
-  <li><a href="#reading" id="toc-reading" class="nav-link" data-scroll-target="#reading">Reading</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   <li><a href="#tasks" id="toc-tasks" class="nav-link" data-scroll-target="#tasks">Tasks</a></li>
   </ul></li>
   </ul>
@@ -326,12 +361,8 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="../index.html">Course Website</a></li>
 </ul>
 </section>
-<section id="reading" class="level3">
-<h3 class="anchored" data-anchor-id="reading">Reading</h3>
-<p>This reading will help you complete the tasks below.</p>
-<ul>
-<li>o <a href="https://www.rdocumentation.org/packages/foreign/versions/0.8-69/topics/read.dbf" target="blank">foreign R Package and <code>read.dbf()</code></a></li>
-</ul>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
 </section>
 <section id="tasks" class="level3">
 <h3 class="anchored" data-anchor-id="tasks">Tasks</h3>
@@ -345,26 +376,49 @@ ul {
 
 </style>
 <ul class="task-list">
-<li><label><input type="checkbox">Use the correct functions from <code>library(haven)</code> , <code>library(readr)</code>, and <code>library(readxl)</code> to load the 6 data sets listed <a href="https://byuistats.github.io/M335/maleheight.html" target="blank">here</a></label></li>
-<li><label><input type="checkbox">Tidy the Worldwide estimates <code>.xlsx</code> file</label>
+<li><label><input type="checkbox">Use the correct Polars functions from to load the 5 data sets listed <a href="https://byuistats.github.io/M335/maleheight.html" target="blank">here</a></label></li>
+<li><label><input type="checkbox">Clean the Worldwide estimates <code>.xlsx</code> file</label>
 <ul class="task-list">
 <li><label><input type="checkbox">Make sure the file is in long format with year as a column. See <a href="https://byuistats.github.io/M335/maleheight_tidy.html">here</a> for an example of the final format.</label></li>
-<li><label><input type="checkbox">Use the <code>separate()</code> and <code>mutate()</code> functions to create a decade column.</label></li>
+<li><label><input type="checkbox">Use appropriate functions to create a decade column.</label></li>
 </ul></li>
-<li><label><input type="checkbox">Import the other five datasets into R and combine them into one tidy dataset.</label>
+<li><label><input type="checkbox">Import the other five datasets into R and combine them into one clean dataset.</label>
 <ul class="task-list">
 <li><label><input type="checkbox">This dataset should have the following columns - birth_year, height.cm, height.in, and study_id</label></li>
 <li><label><input type="checkbox">The BLS wage data does not have birth information. Let’s assume it is mid-twentieth century and use 1950.</label></li>
-<li><label><input type="checkbox">See the reading of <a href="https://byuistats.github.io/M335/class_tasks/task08_details.html">Task 8</a> for how to read in dbf files.</label></li>
+<li><label><input type="checkbox">See the reading of <a href="../qmd_files/modules_files/class_tasks/task08_details.html">Task 8</a> for how to read in dbf files.</label></li>
 </ul></li>
 <li><label><input type="checkbox">Save the two tidy datasets to your repository - The world country estimates and the row-combined individual measurements.</label></li>
 <li><label><input type="checkbox">Make a plot with decade on the x-axis and height in inches on the y-axis with the points from Germany highlighted based on the data from the <code>.xlsx</code> file.</label></li>
 <li><label><input type="checkbox">Make a small-multiples plot of the five studies to examine the question of height distribution across centuries</label></li>
-<li><label><input type="checkbox">Create an <code>.Rmd</code> file with 1-2 paragraphs summarizing your graphics and how those graphics answer the driving question</label></li>
-<li><label><input type="checkbox">Compile your <code>.md</code> and <code>.html</code> file into your git repository</label></li>
+<li><label><input type="checkbox">Create a marimo notebook with 1-2 paragraphs summarizing your graphics and how those graphics answer the driving question</label></li>
+<li><label><input type="checkbox">Export your notebook to <code>.html</code> and have both the notebook and HTML into your git repository</label></li>
 <li><label><input type="checkbox">Find two other student’s compiled files in their repository and provide feedback using the issues feature in GitHub (If they already have three issues find a different student to critique)</label></li>
-<li><label><input type="checkbox">Address 1-2 of the issues posted on your project and push the updates to GitHub</label></li>
+<li><label><input type="checkbox">Address 1-2 of the issues posted on your project and push the updates to GitHub<br>
+<br>
+Use the function in this code snippet to read in <code>.dta</code> files</label></li>
 </ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="im">import</span> polars <span class="im">as</span> pl</span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="im">from</span> pathlib <span class="im">import</span> Path</span>
+<span id="cb1-4"><a href="#cb1-4"></a></span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="kw">def</span> read_dta_polars(file_path: <span class="bu">str</span> <span class="op">|</span> Path) <span class="op">-&gt;</span> pl.DataFrame:</span>
+<span id="cb1-6"><a href="#cb1-6"></a>    file_path <span class="op">=</span> Path(file_path)</span>
+<span id="cb1-7"><a href="#cb1-7"></a></span>
+<span id="cb1-8"><a href="#cb1-8"></a>    <span class="cf">if</span> <span class="kw">not</span> file_path.exists():</span>
+<span id="cb1-9"><a href="#cb1-9"></a>        <span class="cf">raise</span> <span class="pp">FileNotFoundError</span>(<span class="ss">f"File not found: </span><span class="sc">{</span>file_path<span class="sc">}</span><span class="ss">"</span>)</span>
+<span id="cb1-10"><a href="#cb1-10"></a></span>
+<span id="cb1-11"><a href="#cb1-11"></a>    <span class="cf">try</span>:</span>
+<span id="cb1-12"><a href="#cb1-12"></a>        <span class="co"># Load into pandas first (pandas supports .dta)</span></span>
+<span id="cb1-13"><a href="#cb1-13"></a>        pdf <span class="op">=</span> pd.read_stata(file_path)</span>
+<span id="cb1-14"><a href="#cb1-14"></a></span>
+<span id="cb1-15"><a href="#cb1-15"></a>        <span class="co"># Convert to Polars DataFrame</span></span>
+<span id="cb1-16"><a href="#cb1-16"></a>        <span class="cf">return</span> pl.from_pandas(pdf)</span>
+<span id="cb1-17"><a href="#cb1-17"></a></span>
+<span id="cb1-18"><a href="#cb1-18"></a>    <span class="cf">except</span> <span class="pp">ValueError</span> <span class="im">as</span> e:</span>
+<span id="cb1-19"><a href="#cb1-19"></a>        <span class="cf">raise</span> <span class="pp">ValueError</span>(<span class="ss">f"Error reading .dta file: </span><span class="sc">{</span>e<span class="sc">}</span><span class="ss">"</span>)</span>
+<span id="cb1-20"><a href="#cb1-20"></a>    <span class="cf">except</span> <span class="pp">Exception</span> <span class="im">as</span> e:</span>
+<span id="cb1-21"><a href="#cb1-21"></a>        <span class="cf">raise</span> <span class="pp">RuntimeError</span>(<span class="ss">f"Unexpected error: </span><span class="sc">{</span>e<span class="sc">}</span><span class="ss">"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 
 
 </section>

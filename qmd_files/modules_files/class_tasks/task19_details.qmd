@@ -2,24 +2,15 @@
 title: "task-19"
 ---
 
+## Task 19: Spatial Data and Measure Data
 
+### Background
 
+Up to this point, we have dealt with data that fits into the tidy format without much effort. Spatial data has many complicating factors that have made handling spatial data complicated. Big strides are being made to make clean spatial data tidy in Python. However; we are in the middle of the transition.
 
+We will use Plotly to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use `plotly.choropleth()` to recreate the provided image.
 
-
-
-
-
-## Task 19: Spatial Data and Measure Data 
-### Background 
-
-Up to this point, we have dealt with data that fits into the tidy format without much effort.  Spatial data has many complicating factors that have made handling spatial data complicated.  Big strides are being made to make clean spatial data tidy in Python.  However; we are in the middle of the transition.
-
-We will use plotly to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use `plotly.choropleth()` to recreate the provided image.
-
-
-
-
+```{=html}
 <style>
 ul {
    color: black;
@@ -29,25 +20,21 @@ ul {
 }
 
 </style>
-
+```
 
 ### Reading
 
 This reading will help you complete the tasks below.
 
-
-* o [Plotly Choropleth Maps](https://plotly.com/python/choropleth-maps/){target='blank'}
-* o [Video on spatial datums](https://www.youtube.com/watch?v=xKGlMp__jog){target='blank'}
-* o [Video 2 on spatial datums](https://www.youtube.com/watch?v=kXTHaMY3cVk){target='blank'}
-
+-   o [Plotly Choropleth Maps](https://plotly.com/python/choropleth-maps/){target="blank"}
+-   o [Video on spatial datums](https://www.youtube.com/watch?v=xKGlMp__jog){target="blank"}
+-   o [Video 2 on spatial datums](https://www.youtube.com/watch?v=kXTHaMY3cVk){target="blank"}
 
 ### Tasks
 
-
-* [ ] Create a `.png` image that closely matches my example
-    * [ ] Note that `fill = NA` in `geom_sf()` will not fill the polygons with a grey color
-* [ ] Save your notebook and `.png` files to GitHub
-
+-   [ ] Create a `.png` image that closely matches my example
+    -   [ ] Note that `fill = NA` in `geom_sf()` will not fill the polygons with a grey color
+-   [ ] Save your notebook and `.png` files to GitHub
 
 ## Image
 

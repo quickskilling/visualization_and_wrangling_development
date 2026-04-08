@@ -20,41 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -314,9 +279,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#case-study-1-critiquing-visualizations" id="toc-case-study-1-critiquing-visualizations" class="nav-link active" data-scroll-target="#case-study-1-critiquing-visualizations">Case Study 1: Critiquing Visualizations</a>
   <ul class="collapse">
   <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
-  <li><a href="#reading" id="toc-reading" class="nav-link" data-scroll-target="#reading">Reading</a></li>
   <li><a href="#tasks" id="toc-tasks" class="nav-link" data-scroll-target="#tasks">Tasks</a></li>
-  <li><a href="#code-snippet" id="toc-code-snippet" class="nav-link" data-scroll-target="#code-snippet">Code Snippet</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -352,18 +315,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h2 class="anchored" data-anchor-id="case-study-1-critiquing-visualizations">Case Study 1: Critiquing Visualizations</h2>
 <section id="background" class="level3">
 <h3 class="anchored" data-anchor-id="background">Background</h3>
-<p>Your first weekly project requires you to <strong>submit</strong> a review of 4-5 different data visualizations used to answer specific questions. Some fun websites are <a href="https://pudding.cool/" target="blank">pudding.cool</a>, <a href="https://www.washingtonpost.com/news/wonk/?utm_term=.c10a343a7262" target="blank">wonkblog</a>, <a href="https://fivethirtyeight.com/" target="blank">fivethiryeight</a>, and <a href="https://priceonomics.com/" target="blank">priceonomics</a> (but you can use any website, blog, or article with a good visualization).</p>
+<p>Your first weekly project requires you to <strong>submit</strong> a review of 4-5 different data visualizations used to answer specific questions. Some fun websites are <a href="https://pudding.cool/" target="blank">pudding.cool</a>, <a href="https://ourworldindata.org/" target="blank">ourworldindata</a>, and <a href="https://priceonomics.com/" target="blank">priceonomics</a> (but you can use any website, blog, or article with a good visualization).</p>
 <ul>
 <li><a href="../index.html">Course Website</a></li>
-</ul>
-</section>
-<section id="reading" class="level3">
-<h3 class="anchored" data-anchor-id="reading">Reading</h3>
-<p>This reading will help you complete the tasks below.</p>
-<ul>
-<li>o <a href="../rmarkdown_help.html" target="blank">Making your first R Markdown File</a></li>
-<li>o <a href="http://r4ds.had.co.nz/r-markdown.html" target="blank">Chapter 27: R for Data Science - R Markdown</a></li>
-<li>o <a href="http://r4ds.had.co.nz/r-markdown-workflow.html" target="blank">Chapter 30: R for Data Science - R Markdown workflow</a></li>
 </ul>
 </section>
 <section id="tasks" class="level3">
@@ -383,20 +337,14 @@ ul {
 <li><label><input type="checkbox">List 2-3 items that are unique/good</label></li>
 <li><label><input type="checkbox">Identify 1 issue with each example</label></li>
 </ul></li>
-<li><label><input type="checkbox">Create an <code>.Rmd</code> file in R-Studio</label>
+<li><label><input type="checkbox">Create a marimo notebook</label>
 <ul class="task-list">
-<li><label><input type="checkbox">Title it Case Study 1 in the YAML</label></li>
-<li><label><input type="checkbox">Include links or embedded images to the visualization post you found</label></li>
+<li><label><input type="checkbox">Title it Case Study 1</label></li>
+<li><label><input type="checkbox">Include links or embedded images to the visualization post you found in the markdown</label></li>
 <li><label><input type="checkbox">Write a one paragraph critique of each visualization</label></li>
-<li><label><input type="checkbox">Add the R code below to your <code>.Rmd</code> file</label></li>
-<li><label><input type="checkbox">Knit the file to <code>.html</code> and keep the <code>.md</code> file as well</label></li>
+<li><label><input type="checkbox">Export your notebook to <code>.html</code> and have both the notebook and HTML into your git repository</label></li>
 </ul></li>
-<li><label><input type="checkbox">Upload your <code>.md</code> and <code>.html</code> files to the intern development channel in our Slack group</label></li>
 </ul>
-</section>
-<section id="code-snippet" class="level3">
-<h3 class="anchored" data-anchor-id="code-snippet">Code Snippet</h3>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="fu">plot</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">20</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 
 
 </section>

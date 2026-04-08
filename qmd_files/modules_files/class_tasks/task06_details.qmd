@@ -8,7 +8,7 @@ title: "task-06"
 
 Before we can start to answer business questions we need to become familiar with our data. Often, you will want to start with the [data dictionary](https://www.bridging-the-gap.com/data-dictionary/). However, you can also just dive into the data and gain understanding based on the variable names and types.
 
-Beyond the variable descriptions is how the variables relate to each other. We can create tables or visualizations that summarize how different variables relate to each other. At this point we are deepeing our understanding as well as beginning our analysis.
+Beyond the variable descriptions is how the variables relate to each other. We can create tables or visualizations that summarize how different variables relate to each other. At this point we are deepening our understanding as well as beginning our analysis.
 
 **Remember: Your job is to become the data expert not the domain expert.** You will build domain skills but you are not going to replace domain experts. People will depend on you to have a firm understanding of what data your company has available to answer domain specific questions.
 

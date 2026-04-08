@@ -316,7 +316,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="task-12-take-me-out-to-the-ball-game">Task 12: Take me out to the ball game</h2>
 <section id="background" class="level3">
 <h3 class="anchored" data-anchor-id="background">Background</h3>
-<p>Over the campfire, you and a friend get into a debate about which college in Utah has had the best MLB success. As an avid BYU fan, you want to prove your point, and you go to data to settle the debate. You need a clear visualization that depicts the performance of BYU players compared to other Utah college players that have played in the major leagues. The <code>library(Lahman)</code> package has a comprehensive set of baseball data. It is great for testing out our relational data skills. We will also need a function to inflation adjust the player salaries - <code>library(blscrapeR)</code>. See <a href="https://github.com/cran/blscrapeR/blob/master/inst/doc/Inflation_and_Prices.Rmd" target="blank">this guide for an example</a>.</p>
+<p>Over the campfire, you and a friend get into a debate about which college in Utah has had the best MLB success. As an avid BYU fan, you want to prove your point, and you go to data to settle the debate. You need a clear visualization that depicts the performance of BYU players compared to other Utah college players that have played in the major leagues. The <a href="https://sabr.app.box.com/s/y1prhc795jk8zvmelfd3jq7tl389y6cd">Lahman Data Repository</a> has a comprehensive set of baseball data. It is great for testing out our relational data skills. We will also need a function to inflation adjust the player salaries - <code>cpi</code> library.</p>
 <ul>
 <li><a href="../index.html">Course Website</a></li>
 </ul>
@@ -334,20 +334,20 @@ ul {
 <h3 class="anchored" data-anchor-id="reading">Reading</h3>
 <p>This reading will help you complete the tasks below.</p>
 <ul>
-<li>o <a href="http://r4ds.had.co.nz/relational-data.html" target="blank">Chapter 13: R for Data Science - Relational Data</a></li>
+<li>o <a href="https://byuidatascience.github.io/python4ds/relational-data.html" target="blank">Chapter 13: Python for Data Science - Relational Data</a></li>
 </ul>
 </section>
 <section id="tasks" class="level3">
 <h3 class="anchored" data-anchor-id="tasks">Tasks</h3>
 <ul class="task-list">
 <li><label><input type="checkbox">Take notes on your reading of the specified ‘R for Data Science’ chapter in the README.md or in a ‘.R’ script in the class task folder</label></li>
-<li><label><input type="checkbox">Install the <code>library(Lahman)</code> and examine the available data sets available</label>
+<li><label><input type="checkbox">Go to the <a href="https://sabr.app.box.com/s/y1prhc795jk8zvmelfd3jq7tl389y6cd">Lahman Data Repository</a> and examine the available data sets available</label>
 <ul class="task-list">
 <li><label><input type="checkbox">Find the 4-5 different data sets that you will need to show full college and player names as well as their annual earnings</label></li>
 </ul></li>
-<li><label><input type="checkbox">Install the <code>library(blscrapeR)</code> and use the <code>inflation_adjust(2017)</code> function to get all earnings in 2017 dollars</label></li>
+<li><label><input type="checkbox">Install the <code>cpi</code> library and use the <code>inflate(value, year)</code> function to get all earnings in 2017 dollars</label></li>
 <li><label><input type="checkbox">Make a plot showing how professional baseball player earnings that played baseball at BYU compared to the players from other Utah schools</label></li>
-<li><label><input type="checkbox">Save your <code>.R</code> script and image to your repository and be ready to share your code and image at the beginning of class</label></li>
+<li><label><input type="checkbox">Save your notebook to your repository and be ready to share your code and image at the beginning of class</label></li>
 </ul>
 
 

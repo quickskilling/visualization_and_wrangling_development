@@ -316,7 +316,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="task-9-same-data-different-format">Task 9: Same Data Different Format</h2>
 <section id="background" class="level3">
 <h3 class="anchored" data-anchor-id="background">Background</h3>
-<p>Data formats are varied and differ by domains and software. We could spend weeks on the different formats and file types that companies and governments use to store their data. We will practice with a few standard formats that are often used for storing data. In the future, you will most likely have to do some research to figure out other formats (but you can do it with R or Python). We have a challenge to read in the five formats of the <a href="https://github.com/byuistats/data/tree/master/Dart_Expert_Dow_6month_anova" target="blank">DOW data</a> and checking that they are all identical using <code>all.equal()</code>. One final note, your R script should do all the work. That is your script should download the files and/or read directly from the web location of the file.</p>
+<p>Data formats are varied and differ by domains and software. We could spend weeks on the different formats and file types that companies and governments use to store their data. We will practice with a few standard formats that are often used for storing data. In the future, you will most likely have to do some research to figure out other formats. We have a challenge to read in the five formats of the <a href="https://github.com/byuistats/data/tree/master/Dart_Expert_Dow_6month_anova" target="blank">DOW data</a> and checking that they are all identical using <code>assert_frame_equal()</code> from <code>polars.testing</code>. One final note, your Python script should do all the work. That is your script should download the files and/or read directly from the web location of the file.</p>
 <ul>
 <li><a href="../index.html">Course Website</a></li>
 </ul>
@@ -334,29 +334,22 @@ ul {
 <h3 class="anchored" data-anchor-id="reading">Reading</h3>
 <p>This reading will help you complete the tasks below.</p>
 <ul>
-<li>o <a href="http://r4ds.had.co.nz/data-import.html" target="blank">Chapter 11: R for Data Science - Data Import</a></li>
-<li>o <a href="http://haven.tidyverse.org/" target="blank">haven R Package</a></li>
-<li>o <a href="http://readxl.tidyverse.org/" target="blank">readxl R Package</a></li>
-<li>o <a href="https://github.com/wch/downloader" target="blank">downloader R Package</a></li>
+<li>o <a href="https://byuidatascience.github.io/python4ds/data-import.html" target="blank">Chapter 11: Python for Data Science - Data Import</a></li>
 </ul>
 </section>
 <section id="tasks" class="level3">
 <h3 class="anchored" data-anchor-id="tasks">Tasks</h3>
 <ul class="task-list">
-<li><label><input type="checkbox">Take notes on your reading of the specified ‘R for Data Science’ chapter in the README.md or in a ‘.R’ script in the class task folder</label></li>
-<li><label><input type="checkbox">Use the appropriate functions in <code>library(readr)</code>, <code>library(haven)</code>, <code>library(readxl)</code> to read in the five files found on <a href="https://github.com/byuistats/data/tree/master/Dart_Expert_Dow_6month_anova" target="blank">GitHub</a></label>
-<ul class="task-list">
-<li><label><input type="checkbox">Use <code>read_rds(url("WEBLOCATION.rds"))</code> to download and read the <code>.rds</code> file type</label></li>
-<li><label><input type="checkbox">Use the <code>library(downloader)</code> R package and use the <code>download(mode = "wb")</code> function to download the xlsx data as <code>read_xlsx()</code> cannot read files from the web path</label></li>
-<li><label><input type="checkbox">Use <code>tempfile()</code> function to download and save the file.</label></li>
-</ul></li>
-<li><label><input type="checkbox">Check that all five files you have imported into R are in fact the same with <code>all.equal()</code></label></li>
+<li><label><input type="checkbox">Take notes on your reading of the specified ‘Python for Data Science’ chapter in in a marimo notebook.</label></li>
+<li><label><input type="checkbox">Use the appropriate functions to read in the five files found on <a href="https://github.com/byuistats/data/tree/master/Dart_Expert_Dow_6month_anova" target="blank">GitHub</a></label></li>
+<li><label><input type="checkbox">Check that all five files you have imported into R are in fact the same with <code>assert_frame_equal()</code></label></li>
 <li><label><input type="checkbox">Use one of the files to make a graphic showing the performance of the Dart, DJIA, and Pro stock selections</label>
 <ul class="task-list">
 <li><label><input type="checkbox">Include a boxplot, the jittered returns, and the average return in your graphic</label></li>
 </ul></li>
-<li><label><input type="checkbox">Save your <code>.R</code> script and your image to your repository and be ready to share your code that built your graphic in class</label></li>
-<li><label><input type="checkbox">Schedule a mid-semester <a href="https://byuistats.github.io/M335/visitme.html">15-minute interview</a> to discuss your progress in the class.</label></li>
+<li><label><input type="checkbox">Create a marimo notebook with your code and graphics</label></li>
+<li><label><input type="checkbox">Export your notebook to <code>.html</code> and have both the notebook and HTML into your git repository</label></li>
+<li><label><input type="checkbox">Schedule a mid-semester 15-minute interview with a mentor to discuss your progress.</label></li>
 </ul>
 
 
