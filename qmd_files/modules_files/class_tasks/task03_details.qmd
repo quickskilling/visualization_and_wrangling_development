@@ -29,7 +29,7 @@ This reading will help you complete the tasks below.
 -   o [Computational Thinking](https://www.edutopia.org/blog/computational-thinking-across-the-curriculum-eli-sheldon){target="blank"}
 -   o [Optional Reading for new programmers](https://jscomplete.com/learn/pro-programmer/beginner-programmers-mistakes){target="blank"}
 -   o [Creating Questions for your project (watch the videos that are free)](https://www.lynda.com/Business-Skills-tutorials/Harness-power-questions/477451/574315-4.html){target="blank"}
--   o [Chapter 5: Python for Data Science - Data transformation](https://byuidatascience.github.io/python4ds/transform.html){target="blank"}
+-   o [Python for Data Science - Data transformation](https://python4ds.com/data-transform.html){target="blank"}
 
 ### Tasks
 

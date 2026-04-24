@@ -19,7 +19,8 @@ It is 2010, and you are working for the Idaho restaurant commission, and they ne
 
 This reading will help you complete the tasks below.
 
--   o [Regular Expressions in R](http://www.regular-expressions.info/rlanguage.html){target="blank"}
+-   [Regular Expressions in R](http://www.regular-expressions.info/rlanguage.html){target="blank"}
+-   [Python for Data Science - Regular Expressions](https://python4ds.com/regex.html)
 
 ### Tasks
 

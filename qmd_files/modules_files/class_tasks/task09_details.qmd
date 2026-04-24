@@ -26,7 +26,7 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Chapter 11: Python for Data Science - Data Import](https://byuidatascience.github.io/python4ds/data-import.html){target="blank"}
+-   o [Python for Data Science - Data Import](https://python4ds.com/exploratory-data-analysis.html){target="blank"}
 
 ### Tasks
 

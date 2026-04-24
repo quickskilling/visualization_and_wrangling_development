@@ -26,7 +26,7 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Chapter 12: Python for Data Science - Tidy Data](https://byuidatascience.github.io/python4ds/tidy-data.html){target="blank"}
+-   o [Python for Data Science - Tidy Data](https://python4ds.com/data-tidy.html){target="blank"}
 
 ### Tasks
 

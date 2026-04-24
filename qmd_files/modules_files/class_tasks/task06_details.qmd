@@ -32,7 +32,7 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Chapter 28: Python for Data Science - Graphics for communication](https://byuidatascience.github.io/python4ds/graphics-for-communication.html){target="blank"}
+-   o [Python for Data Science - Graphics for communication](https://python4ds.com/communicate-plots.html){target="blank"}
 
 ### Tasks
 
