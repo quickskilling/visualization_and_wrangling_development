@@ -26,7 +26,7 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Python for Data Science - Strings and Text](https://python4ds.com/strings.html){target="blank"}
+-   o [Python for Data Science - Strings and Text](https://www.python4ds.com/strings.html){target="blank"}
 -   o [Polars - Strings](https://docs.pola.rs/user-guide/expressions/strings/)
 -   o [Regular Expression examples (optional)](https://qntm.org/files/re/re.html){target="blank"}
 -   o [Regular Expression support applet (optional)](https://regex101.com/){target="blank"}

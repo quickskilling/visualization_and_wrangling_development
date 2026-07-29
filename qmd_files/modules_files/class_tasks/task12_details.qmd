@@ -26,11 +26,11 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Python for Data Science - Joins](https://python4ds.com/joins.html){target="blank"}
+-   o [Python for Data Science - Joins](https://www.python4ds.com/joins.html){target="blank"}
 
 ### Tasks
 
--   [ ] Take notes on your reading of the specified 'R for Data Science' chapter in the README.md or in a '.R' script in the class task folder
+-   [ ] Take notes on your reading of the specified 'Python for Data Science' chapter in the README.md in the class task folder
 -   [ ] Go to the [Lahman Data Repository](https://sabr.app.box.com/s/y1prhc795jk8zvmelfd3jq7tl389y6cd) and examine the available data sets available
     -   [ ] Find the 4-5 different data sets that you will need to show full college and player names as well as their annual earnings
 -   [ ] Install the `cpi` library and use the `inflate(value, year)` function to get all earnings in 2017 dollars

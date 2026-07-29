@@ -20,7 +20,7 @@ It is 2010, and you are working for the Idaho restaurant commission, and they ne
 This reading will help you complete the tasks below.
 
 -   [Regular Expressions in R](http://www.regular-expressions.info/rlanguage.html){target="blank"}
--   [Python for Data Science - Regular Expressions](https://python4ds.com/regex.html)
+-   [Python for Data Science - Regular Expressions](https://www.python4ds.com/regex.html)
 
 ### Tasks
 

@@ -24,9 +24,9 @@ ul {
 
 ### Reading
 
-This reading will help you complete the tasks below.
+This reading will help you complete the tasks below.s
 
--   o [Python for Data Science - Data Import](https://python4ds.com/data-import.html){target="blank"}
+-   o [Python for Data Science - Data Import](https://www.python4ds.com/data-import.html){target="blank"}
 
 ### Tasks
 

@@ -26,7 +26,7 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Python for Data Science - Exploratory Data Analysis](https://python4ds.com/exploratory-data-analysis.html){target="blank"}
+-   o [Python for Data Science - Exploratory Data Analysis](https://www.python4ds.com/exploratory-data-analysis.html){target="blank"}
 
 ### Tasks
 

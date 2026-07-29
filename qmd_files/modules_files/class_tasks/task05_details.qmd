@@ -26,9 +26,9 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Python for Data Science - Graphics for communication](https://python4ds.com/communicate-plots.html){target="blank"}
--   o [Python for Data Science - Writing Code](https://python4ds.com/workflow-writing-code.html){target="blank"}
--   o [Python for Data Science - Data Import](https://python4ds.com/data-import.html){target="blank"}
+-   o [Python for Data Science - Graphics for communication](https://www.python4ds.com/communicate-plots.html){target="blank"}
+-   o [Python for Data Science - Writing Code](https://www.python4ds.com/workflow-writing-code.html){target="blank"}
+-   o [Python for Data Science - Data Import](https://www.python4ds.com/data-import.html){target="blank"}
 
 ### Tasks
 

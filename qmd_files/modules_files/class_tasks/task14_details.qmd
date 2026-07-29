@@ -30,7 +30,7 @@ ul {
 
 This reading will help you complete the tasks below.
 
--   o [Python for Data Science - Iteration](https://python4ds.com/iteration.html){target="blank"}
+-   o [Python for Data Science - Iteration](https://www.python4ds.com/iteration.html){target="blank"}
 -   o [Hadley Wickham - Cupcakes to teach for loops](https://www.youtube.com/watch?v=GyNqlOjhPCQ&feature=youtu.be){target="blank"}
 -   o [stringi R package and the `stri_stats_latex()` function](https://rdrr.io/rforge/stringi/man/stri_stats_latex.html){target="blank"}
 
